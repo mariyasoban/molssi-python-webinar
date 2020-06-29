@@ -1,5 +1,5 @@
 """
-This module has functions associated with analyzing the geometry of a molecule.
+This module has functions associated with analyzing the geometry of molecule.
 """
 
 
